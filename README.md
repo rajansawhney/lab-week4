@@ -4,7 +4,9 @@
 # Branching
 
 ### Assignment:
-- Update prob1 and prob2 following homework assignment description provided in LabAssignment_Week2.pdf (uploaded on Laulima)
+- Update prob1 and prob2 following homework assignment description provided in LabAssignment_Week4.pdf (uploaded on Laulima)
+
+NOTE: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
 
 ### Steps to submit changes:
 1. Click on desired .c to open file
