@@ -19,9 +19,9 @@ NOTE: Github is not a place to test your code. Test it on your machines first. A
 
 ### To check whether your code changes passed:
 1. Click on "Actions" on the top
-2. Click on "Feedback" to open Feedback page
-3. If your last code change passed, you will see a green check mark against your commit message. If it did not pass, you will see a red cross.
-4. If you see a red cross, that indicates you need to revise your code - it is not correct.
+2. Click on the latest workflow from the list
+3. Click on "Autograding"
+4. Expand the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
 
 ### Note:
 We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github. Test your program on your machine using the instructions you received in the lab sessions.
