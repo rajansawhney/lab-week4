@@ -22,7 +22,8 @@ Expected Output:
 The candidate is not eligible for admission.
 
 NOTE: 
-1. Output should **exactly** say either "The candidate is eligible for admission." or "The candidate is not eligible for admission."
-2. Input should be of type integer only.
-3. If you used if/else statements for the prob1, use switch/case statements for prob2.
+1. Read input **only** in the following order: physics, chemistry, math.
+2. Output should **exactly** say either "The candidate is eligible for admission." or "The candidate is not eligible for admission."
+3. Input should be of type integer only.
+4. If you used if/else statements for the prob1, use switch/case statements for prob2.
 */
